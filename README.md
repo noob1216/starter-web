@@ -11,5 +11,5 @@ Adding line for rebassing, more changes for rebassing
 please fork this repository and review
 
 ##Copyright
-All rights reserved
+All rights reserved on 7th Oct
 Sample website with plenty of files for demos
