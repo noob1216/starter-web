@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 
 Adding line for rebassing, more changes for rebassing
 Emergency update
+stashing example
 ## Purpose
 ##hot ot contribute
 ##deployment
